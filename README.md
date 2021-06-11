@@ -4,6 +4,8 @@
 ## 本库用来解决 原作者删库后，在BoxJs执行时发生的跨域问题
 
 
+![image-20210511064848443](http://note.youdao.com/yws/public/resource/f19e14db517658ef635f4a111d194c53/xmlnote/WEBRESOURCEdf9ce99f1eeb4f5abbff19e7ba9425ca/4676)
+
 ## 使用说明
 
 - 添加 Gallery
