@@ -4,7 +4,7 @@
 ## 本库用来解决 原作者删库后，在BoxJs执行时发生的跨域问题
 
 
-![error](![image](https://user-images.githubusercontent.com/50142409/121624702-9220c300-caa4-11eb-8c41-cc5612fd8e28.png))
+![error](https://raw.githubusercontent.com/Michale-wang/Module/main/img/error.jpg)
 
 ## 使用说明
 
