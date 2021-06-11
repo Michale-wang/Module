@@ -4,7 +4,7 @@
 ## 本库用来解决 原作者删库后，在BoxJs执行时发生的跨域问题
 
 
-![image-20210511064848443](http://note.youdao.com/yws/public/resource/f19e14db517658ef635f4a111d194c53/xmlnote/WEBRESOURCEdf9ce99f1eeb4f5abbff19e7ba9425ca/4676)
+![error](![image](https://user-images.githubusercontent.com/50142409/121624702-9220c300-caa4-11eb-8c41-cc5612fd8e28.png))
 
 ## 使用说明
 
