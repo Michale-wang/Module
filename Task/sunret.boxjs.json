@@ -19,7 +19,7 @@
       ],
       "repo" : "https://github.com/Michale-wang/Module/tree/main/Scripts/youth.js",
       "id" : "youth",
-      "script" : "https://github.com/Michale-wang/Module/edit/main/Scripts/youth.js",
+      "script" : "https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/youth.js",
       "settings" : [
         {
           "id" : "zqcard",
