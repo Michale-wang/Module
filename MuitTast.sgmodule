@@ -19,11 +19,4 @@ BoxJS切换会话 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=1800
 
 中青看点阅读多账户 = type=cron,cronexp="35 0,32 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/Youth_Read.js
 
-# 签到
-腾讯视频 = type=cron,cronexp="10 0 0 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js
-
-喜马拉雅 = type=cron,cronexp="10 0 0 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js
-
-爱奇艺 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
-
-京东 = type=cron,cronexp="5 0 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+中青看点阅读 = type=cron,cronexp=35 */30 */2 * * *,wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js
