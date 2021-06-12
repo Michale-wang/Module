@@ -10,7 +10,7 @@
 
 BoxJS切换会话 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=1800,script-path=https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/box.switcher.js
 
-# 薅
+# 薅1
 中青看点极速版多账户 = type=cron,cronexp="*/14 5-23,37-55 * * *",wake-system=1,timeout=360,script-path=https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/youth.js
 
 
