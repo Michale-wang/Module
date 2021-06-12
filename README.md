@@ -13,10 +13,12 @@
 
 原版
   
-  https://dove.589669.xyz/task2qxgallery?&sub=https%3A%2F%2Fraw.githubusercontent.com%2FMichale-wang%2FModule%2Fmain%2FTast.sgmodule
+ https://dove.589669.xyz/task2qxgallery?&sub=https%3A%2F%2Fraw.githubusercontent.com%2FMichale-wang%2FModule%2Fmain%2FTast.sgmodule
  
  
 配合BoxJs 多账户版
+
+ https://dove.589669.xyz/task2qxgallery?&sub=https%3A%2F%2Fraw.githubusercontent.com%2FMichale-wang%2FModule%2Fmain%2FMuitTast.sgmodule
 
 - 添加 BoxJs订阅 
 
