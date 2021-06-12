@@ -1,0 +1,22 @@
+#!name=Cron Task
+#!desc=中青多账号
+#!system=ios
+
+[Script]
+
+
+
+# BoxJs会话切换
+
+BoxJS切换会话 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=1800,script-path=https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/box.switcher.js
+
+# 薅1
+中青看点极速版多账户 = type=cron,cronexp="*/14 5-23,37-55 * * *",wake-system=1,timeout=360,script-path=https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/youth.js
+
+
+中青看点浏览赚 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=1800,script-path=https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/youth_gain.js
+
+
+中青看点阅读多账户 = type=cron,cronexp="35 0,32 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/Youth_Read.js
+
+中青看点阅读 = type=cron,cronexp=35 */30 */2 * * *,wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js
