@@ -34,7 +34,7 @@ function execSwitch() {
             const app = apps[appId]
 
             //选择切换特点的会话
-            if('youthRead'===app){
+            if('youthRead'===appId){
                 console.log('开始切换中青自动阅读会话');
                 if (app.sessions.length <= 1) {
                     $.desc.push(`${app.name}: 跳过! 原因: 只有 1 个会话?`)
