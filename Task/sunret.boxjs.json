@@ -113,7 +113,21 @@
         "https://raw.githubusercontent.com/Orz-3/mini/master/kuaishou.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/kuaishou.png"
       ]
-    }
+    },
+    {
+      "author": "@chavyleung",
+      "keys": [
+        "chen_signheader_jddj"
+      ],
+      "repo":"https://github.com/Michale-wang/Module/tree/main/Scripts/cjddj.js",
+      "id": "kuaishou",
+      "script": "https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/cjddj.js",
+      "name": "c大京东到家",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/kuaishou.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/kuaishou.png"
+      ]
+    } 
     
  
   ]
