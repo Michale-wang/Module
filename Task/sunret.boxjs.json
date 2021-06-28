@@ -120,7 +120,7 @@
         "chen_signheader_jddj"
       ],
       "repo":"https://github.com/Michale-wang/Module/tree/main/Scripts/cjddj.js",
-      "id": "kuaishou",
+      "id": "cjddj",
       "script": "https://raw.githubusercontent.com/Michale-wang/Module/main/Scripts/cjddj.js",
       "name": "c大京东到家",
       "icons": [
